@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binarywise.IO", "Binarywise.IO\Binarywise.IO.csproj", "{09DAC066-7F9C-4651-B458-CF235DD55401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binarywise.IO.Tests", "Binarywise.IO.Tests\Binarywise.IO.Tests.csproj", "{3854B0D0-A15D-488A-AE0A-703ECE76202D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DAC066-7F9C-4651-B458-CF235DD55401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DAC066-7F9C-4651-B458-CF235DD55401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DAC066-7F9C-4651-B458-CF235DD55401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DAC066-7F9C-4651-B458-CF235DD55401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3854B0D0-A15D-488A-AE0A-703ECE76202D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3854B0D0-A15D-488A-AE0A-703ECE76202D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3854B0D0-A15D-488A-AE0A-703ECE76202D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3854B0D0-A15D-488A-AE0A-703ECE76202D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
